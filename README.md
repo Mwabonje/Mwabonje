@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Michael from Kenya<br><br>- 📚 I'm currently learning Web Tech</p>
+<p align="left">I'm Michael from Kenya<br><br>- 📚 I'm currently learning Web Development</p>
 
 ###
 
