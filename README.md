@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Michael from Kenya<br><br>- 📚 I'm currently learning Web Development</p>
+<p align="left">I'm Michael, front-End Developer from Kenya </p>
 
 ###
 
